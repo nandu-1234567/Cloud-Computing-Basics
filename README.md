@@ -13,3 +13,4 @@ This repository covers the fundamentals of "CLOUD COMPUTING"
    3.Hybrid
 * AWS overview
 * AZURE Overview
+* Cloud Storage
