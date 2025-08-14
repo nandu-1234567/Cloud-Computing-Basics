@@ -11,3 +11,5 @@ This repository covers the fundamentals of "CLOUD COMPUTING"
    1.Public
    2.Private
    3.Hybrid
+* AWS overview
+* AZURE Overview
