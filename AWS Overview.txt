@@ -1,0 +1,21 @@
+AWS:
+ * AWS - Amazon Web Services
+ * It is a cloud provider.
+ * 2002 internally launched.
+ * 2004 publicly launched with SQS.
+ * 2006 re-launched publicly with SQS, S3, &EC2.
+AWS regions:
+ * An AWS Region is a geographically distinct location around the world where Amazon Web Services clusters its data centers. 
+AWS Availability Zones:
+ * In AWS, an Availability Zone (AZ) is a crucial component of the AWS global infrastructure, representing one or more discrete data centers    within an AWS Region.
+AWS Data Centers:
+ * Data centers are the physical locations where AWS houses the computing, storage, networking, and other infrastructure that powers its        cloud service.
+AWS Edge location/Point of Presence:
+ * An AWS Edge location, also called a Point of Presence (PoP), is a globally distributed data center that AWS uses to bring content and        services closer to the end users, reducing latency and improving performance. 
+Latency:
+ *  Delay or lag that occurs when data travels from one point to another in a system or network. 
+How to choose an AWS region?
+  * Cost
+  * Security from disasters
+  * Pick a region close to your users.
+  * Network Connections
