@@ -1,0 +1,21 @@
+
+Data Management Solutions:
+ * Data management solutions encompass a broad range of technologies, tools, and practices designed to collect, store, organize, protect, and make data accessible and valuable     throughout    its entire lifecycle.
+ * Shared storage: shared storage systems involve a central storage resource (which can be hardware like a NAS device or software like cloud storage) that manages the actual                       storage capacity.
+ * Database : A database is an organized collection of information, or data, typically stored electronically within a computer system.
+ * Datalakes : A data lake is a centralized repository that allows you to store a massive amount of data, structured and unstructured alike, in its raw or native format.
+ * Backup : Backup is the essential process of creating copies of your digital data, files, and systems to ensure they can be recovered or restored in the event of data loss,                  corruption, hardware failure, accidental deletion, or cyberattacks.
+           Full Backup: Creates a complete copy of all selected data. 
+           Incremental Backup: Copies only the data that has changed since the last backup of any type (full or incremental).
+           Differential Backup: Copies all data that has changed since the last full backup.
+ * Archival : Archiving refers to the process of moving inactive data to a separate, typically lower-cost and higher-capacity storage system for long-term retention, rather than                 deleting it or keeping it on expensive primary storage.
+Latency:
+ * Delay between User's action and application response.
+Network latency:
+ * This is the delay caused by the time it takes for data to travel across a network from its source to its destination and back again.
+Disk latency (storage latency):
+ * This refers to the delay in retrieving or storing data on a storage device, such as an HDD or SSD.
+Processing latency:
+This refers to the delay caused by the time it takes for a system's processor (CPU) or other computing units to execute computational tasks or algorithms.
+Memory latency:
+This refers to the delay involveid n accessing data from a computer's memory, typically RAM or different levels of cache. 
