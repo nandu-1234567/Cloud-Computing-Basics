@@ -1,0 +1,21 @@
+AZURE :
+ * Microsoft Public cloud.
+ * Announced in october 2008.
+ * Released in February 2010.
+ * The 2nd largest public cloud.
+Major clients :
+ * BOEING
+ * SAMSUNG
+ * ebay
+Regions:
+ *  Region is a specific geographical area that contains one or more data centers.
+Data Centers:
+ * Within each region, there are one or more physical data centers.
+Availability Zones: 
+ * Many Azure regions include Availability Zones, which are physically separate and isolated data centers within a region. 
+Paired region:
+ * A paired region is a strategic pairing of two Azure regions that are typically within the same geographical boundary.
+ * This pairing is designed to facilitate disaster recovery and enhance the availability of Azure services. 
+AZURE services :
+ * An Azure service refers to a cloud-based offering provided by Microsoft Azure, its cloud computing platform. 
+ * These services allow individuals, businesses, and governments to build, deploy, and manage applications and services without needing to own or maintain physical    on-premises infrastructure.
