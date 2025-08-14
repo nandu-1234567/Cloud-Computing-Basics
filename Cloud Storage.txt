@@ -1,0 +1,37 @@
+Cloud Storage:
+* Cloud storage is a service where digital data is stored on servers in off-site locations managed by a third-party provider.
+  1. Primary Storage
+  2. Secondary Storage
+  3. Teritary Storage
+    1.Primary Storage:
+      * This storage is slower and less expensive.
+      * Higher capacity,non-volatile.
+      * Purpose: Provides long-term storage for files, applications, and the operating system.
+      * Examples: Hard Disk Drives (HDDs)- HDDs are traditional storage devices that store data on spinning platters coated with magnetic material. 
+                  Solid State Drives (SSDs) - SSDs are a newer technology that stores data using flash memory, typically NAND flash, in integrated circuits. 
+                  USB flash drives -  They are non-volatile and used for long-term data storage outside of a computer's primary memory (RAM).
+                  Optical discs (CDs, DVDs, Blu-ray discs) - These devices use NAND flash memory, a type of solid-state storage. They have no moving parts.
+     2.Secondary Storage:
+       * This storage is slower and less expensive.
+       * Higher capacity, non-volatile.
+       * Purpose: Provides long-term storage for files, applications, and the operating system.
+       * Examples: Hard Disk Drives (HDDs), Solid State Drives (SSDs), USB flash drives, Optical discs (CDs, DVDs, Blu-ray discs).
+     3.Teritary Storage:
+       * This is the slowest and least expensive type of storage offering very high capacity. 
+       * It's typically used for archiving and long-term backups.
+       * Purpose: Storing large volumes of rarely accessed data for long-term retention.
+       * Examples: Magnetic tape libraries, Optical jukeboxes, Cold storage services (likeAWS Glacier, Azure Archive Storage).
+ Hard disk storage:
+  * This refers to data stored on a hard disk drive (HDD) that is directly connected to a single computer or server.
+  *  Usecases : Personal Computers, Individual Backups, External drives, Portable Data Storage, Small Business/Single Server Storage. 
+  *  Advantages: Cost-Effective,High Storage Capacity, Data Recovery Potential 
+  *  Limitations : Slower Performance, Noise and heat, Higher Power Consumption.
+Network Disk Storage:
+  * Network disk storage, commonly known as Network Attached Storage (NAS), is a dedicated device with its own operating system that connects to a network. 
+  * This allows multiple users and devices to access and share data over the network. 
+  * Advantages: Robust data protection and security, Centralized storage and management
+  * Usecases : Archival Storage,Backups (Local/Personal),Media Libraries. 
+ Hybrid Storage:
+  * Combines public and private cloud storage, allowing businesses to choose where to store data based on factors like sensitivity, cost, and performance.
+ DAS:
+  * DAS - Directly Connected Storage offering high Performance for single-user Scenarios.
