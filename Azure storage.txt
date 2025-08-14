@@ -1,0 +1,14 @@
+ Azure Storage services:
+     * Azure Storage includes core services for different data types:
+     * Azure Blob Storage: For unstructured data like images and videos, supporting Data Lake Storage and tiered storage.
+     * Azure Files: Managed cloud file shares accessible via SMB and NFS, suitable for migrating file servers.
+     * Azure Disk Storage: High-performance block storage for Azure VMs.
+     * Azure Queues: A messaging store for asynchronous messaging.
+     * Azure Tables: A NoSQL key-attribute store for structured data, now part of Azure Cosmos DB. 
+  
+ Data Replication :
+     * Data replication is the process of creating and maintaining multiple identical copies of data across different locations or systems. It's a fundamental strategy for ensuring data         availability, fault tolerance, and disaster recovery.
+ High Availability :
+     * High availability focuses on preventing downtime due to localized failures or disruptions within a single data center or a set of closely linked cloud Availability Zones.
+ Disaster Recovery:
+     *Disaster recovery (DR) is like having a well-rehearsed plan for when things go seriously wrong with your computer systems and data.
